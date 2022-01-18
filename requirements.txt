@@ -1,0 +1,16 @@
+certifi==2021.10.8
+charset-normalizer==2.0.9
+conda==4.3.16
+distlib==0.3.4
+filelock==3.4.2
+idna==3.3
+loguru==0.5.3
+pipenv==2021.11.23
+platformdirs==2.4.1
+pycosat==0.6.3
+requests==2.26.0
+ruamel.yaml==0.17.19
+ruamel.yaml.clib==0.2.6
+urllib3==1.26.7
+virtualenv==20.11.0
+virtualenv-clone==0.5.7
